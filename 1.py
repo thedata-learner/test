@@ -1,1 +1,2 @@
-print("hello_git_everyday")
+name = input('Enter your name: ')
+print(f'Hello, {name}! Welcome to GitHub!')
